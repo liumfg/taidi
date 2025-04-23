@@ -1,0 +1,7 @@
+edge_tts==7.0.0
+llama_cpp==3.0.0
+numpy==2.2.4
+PyAudio==0.2.14
+pydub==0.25.1
+PyQt6==6.8.1
+PyQt6_sip==13.10.0
